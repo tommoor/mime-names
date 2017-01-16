@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/mime-names.svg)](https://badge.fury.io/js/mime-names)
+
 # mime-names
 
 This is a database of mime names keyed by mime types. It was created to use alongside
